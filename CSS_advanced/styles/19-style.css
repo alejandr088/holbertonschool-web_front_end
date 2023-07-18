@@ -307,7 +307,7 @@ h6 {
     color: var(--nav-item-link-hover);
 }
 
-ul .row {
+ul.row {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -331,7 +331,7 @@ ul .row {
     color: var(--text-color);
 }
 
-ul .footer {
+.footer ul {
     text-align: right;
 }
 
