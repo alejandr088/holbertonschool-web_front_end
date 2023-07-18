@@ -268,6 +268,14 @@ h6 {
     padding: var(--section-body-padding);
 }
 
+.section-footer {
+    padding: var(--section-footer-padding);
+}
+
+.footer {
+    padding: var(--footer-padding);
+}
+
 :root {
     --color-primary: #d73953;
     --color-black: #090909;
@@ -297,8 +305,4 @@ h6 {
     --section-footer-padding: 3rem 0 0;
     --section-footer-align: center;
     --footer-padding: 5rem 0 1rem;
-}
-
-.footer {
-    padding: var(--footer-padding);
 }
